@@ -1,0 +1,57 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+h2 {
+	color: red;
+}
+span.text {
+	color: green;
+}
+.content p {
+	color: blue;
+}
+h3 {
+	color: brown;
+}
+.content-text .place {
+	color: yellowgreen;
+}
+.gps span {
+	color: tomato;
+}
+#main-text {
+	color: violet;
+}
+.ysadba * {
+	color: teal;
+}
+.first p,
+.first span {
+	color: blueviolet;
+}
